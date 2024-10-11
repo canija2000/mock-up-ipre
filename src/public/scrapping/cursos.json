@@ -1,0 +1,1858 @@
+[
+    {
+        "sigla": "ICE1001",
+        "nombre": "Introduccion a la Ingenieria Estructural",
+        "creditos": 10,
+        "ECA": 0.86,
+        "HSP": 15,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICE1003",
+        "nombre": "Estatica",
+        "creditos": 10,
+        "ECA": 0.02,
+        "HSP": 12,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICE1013",
+        "nombre": "Dinamica",
+        "creditos": 10,
+        "ECA": 0.46,
+        "HSP": 0,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE1302",
+        "nombre": "Mecanica de Solidos",
+        "creditos": 10,
+        "ECA": 0.82,
+        "HSP": 15,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE1402",
+        "nombre": "Diseno Estructural",
+        "creditos": 10,
+        "ECA": 0.27,
+        "HSP": 13,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICE1513",
+        "nombre": "Estatica y Dinamica",
+        "creditos": 10,
+        "ECA": 0.72,
+        "HSP": 9,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICE1603",
+        "nombre": "Fundamentos de Geotecnia",
+        "creditos": 10,
+        "ECA": 0.98,
+        "HSP": 5,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICE2004",
+        "nombre": "Estatica",
+        "creditos": 10,
+        "ECA": 0.01,
+        "HSP": 16,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICE2005",
+        "nombre": "Mecanica Estructural",
+        "creditos": 10,
+        "ECA": 0.24,
+        "HSP": 8,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE2013",
+        "nombre": "Estatica y Mecanica de Solidos",
+        "creditos": 10,
+        "ECA": 0.78,
+        "HSP": 19,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ICE2020",
+        "nombre": "Introduccion a la Biomecanica",
+        "creditos": 10,
+        "ECA": 0.79,
+        "HSP": 10,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICE2021",
+        "nombre": "Biomecanica Computacional",
+        "creditos": 10,
+        "ECA": 0.34,
+        "HSP": 18,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICE2022",
+        "nombre": "Estratigrafia y Procesos Sedimentarios y Volcanicos",
+        "creditos": 10,
+        "ECA": 0.87,
+        "HSP": 0,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE2023",
+        "nombre": "Geologia de Campo (Capstone)",
+        "creditos": 10,
+        "ECA": 0.28,
+        "HSP": 7,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICE2024",
+        "nombre": "Geologia y Geodinamica Andina",
+        "creditos": 10,
+        "ECA": 0.77,
+        "HSP": 14,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICE2025",
+        "nombre": "Geoquimica y Petrogenesis",
+        "creditos": 10,
+        "ECA": 0.78,
+        "HSP": 13,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE2028",
+        "nombre": "Mineralogia y Petrologia",
+        "creditos": 10,
+        "ECA": 0.42,
+        "HSP": 13,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE2029",
+        "nombre": "Procesos Superficiales y Peligros Geologicos",
+        "creditos": 10,
+        "ECA": 0.12,
+        "HSP": 18,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICE2113",
+        "nombre": "Analisis Estructural I",
+        "creditos": 10,
+        "ECA": 0.6,
+        "HSP": 16,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICE2114",
+        "nombre": "Analisis Estructural I",
+        "creditos": 10,
+        "ECA": 0.9,
+        "HSP": 14,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICE2134",
+        "nombre": "Modelacion Numerica en Ingenieria",
+        "creditos": 10,
+        "ECA": 0.27,
+        "HSP": 11,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ICE2135",
+        "nombre": "Metodos Numericos en Ingenieria",
+        "creditos": 10,
+        "ECA": 0.35,
+        "HSP": 8,
+        "TC": "D2"
+    },
+    {
+        "sigla": "MIN050",
+        "nombre": "Creditos Minimos Especialidad",
+        "creditos": 50,
+        "ECA": 0.06,
+        "HSP": 18,
+        "TC": "D2"
+    },
+    {
+        "sigla": "OPR020",
+        "nombre": "Optativos de Especialidad",
+        "creditos": 20,
+        "ECA": 0.47,
+        "HSP": 13,
+        "TC": "D1"
+    },
+    {
+        "sigla": "OPT0400",
+        "nombre": "Optativos de Ing Civil (50cr)",
+        "creditos": 50,
+        "ECA": 0.04,
+        "HSP": 9,
+        "TC": "D4"
+    },
+    {
+        "sigla": "OPT0454",
+        "nombre": "Opt de Ing Hidraulica (20cr)",
+        "creditos": 0,
+        "ECA": 0.9,
+        "HSP": 3,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0001",
+        "nombre": "Curso Optativo de Ciencias",
+        "creditos": 10,
+        "ECA": 0.21,
+        "HSP": 19,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING0002",
+        "nombre": "Curso de Matematicas Aplicada",
+        "creditos": 10,
+        "ECA": 0.12,
+        "HSP": 1,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING0003",
+        "nombre": "Optativo de Especialidad",
+        "creditos": 10,
+        "ECA": 0.32,
+        "HSP": 12,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING0004",
+        "nombre": "Optativo de Especialidad",
+        "creditos": 10,
+        "ECA": 0.75,
+        "HSP": 18,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0005",
+        "nombre": "Optativo de Amplitud",
+        "creditos": 10,
+        "ECA": 0.9,
+        "HSP": 3,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING0006",
+        "nombre": "Optativo de Amplitud",
+        "creditos": 20,
+        "ECA": 0.36,
+        "HSP": 8,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING0007",
+        "nombre": "Optativo de Especialidad",
+        "creditos": 5,
+        "ECA": 0.31,
+        "HSP": 0,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING0008",
+        "nombre": "Optativo de Especialidad",
+        "creditos": 5,
+        "ECA": 0.59,
+        "HSP": 5,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING001M",
+        "nombre": "Evaluacion de Entrada de Precalculo y Algebra",
+        "creditos": 0,
+        "ECA": 0.91,
+        "HSP": 13,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0600",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.12,
+        "HSP": 14,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING0601",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.3,
+        "HSP": 3,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING0700",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.73,
+        "HSP": 9,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING0701",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.01,
+        "HSP": 19,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING0800",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 20,
+        "ECA": 0.74,
+        "HSP": 3,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0900",
+        "nombre": "Pasantia de Investigacion",
+        "creditos": 10,
+        "ECA": 0.51,
+        "HSP": 11,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0901",
+        "nombre": "Pasantia de Investigacion Nacional",
+        "creditos": 10,
+        "ECA": 0.7,
+        "HSP": 12,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0902",
+        "nombre": "Pasantia de Investigacion en el Extranjero",
+        "creditos": 10,
+        "ECA": 0.4,
+        "HSP": 18,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING0903",
+        "nombre": "Pasantia de Investigacion en Empresa",
+        "creditos": 10,
+        "ECA": 0.12,
+        "HSP": 5,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING0904",
+        "nombre": "Iniciativas de Investigacion Estudiantiles",
+        "creditos": 10,
+        "ECA": 0.52,
+        "HSP": 17,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0905",
+        "nombre": "Cmd Iniciativas de Investigacion en Pregrado",
+        "creditos": 10,
+        "ECA": 0.24,
+        "HSP": 9,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0906",
+        "nombre": "Cmd Investigacion o Proyecto Interdisciplinario",
+        "creditos": 10,
+        "ECA": 0.55,
+        "HSP": 6,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0911",
+        "nombre": "Pasantia de Investigacion Nacional",
+        "creditos": 10,
+        "ECA": 0.53,
+        "HSP": 0,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING0912",
+        "nombre": "Pasantia de Investigacion en el Extranjero",
+        "creditos": 10,
+        "ECA": 0.4,
+        "HSP": 8,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0913",
+        "nombre": "Pasantia de Investigacion en Empresa",
+        "creditos": 10,
+        "ECA": 0.03,
+        "HSP": 15,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING0914",
+        "nombre": "Iniciativas de Investigacion Estudiantiles",
+        "creditos": 10,
+        "ECA": 0.62,
+        "HSP": 1,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0915",
+        "nombre": "Cmd Iniciativas de Investigacion en Pregrado",
+        "creditos": 10,
+        "ECA": 0.63,
+        "HSP": 7,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0916",
+        "nombre": "Cmd Investigacion o Proyecto Interdisciplinario",
+        "creditos": 10,
+        "ECA": 0.27,
+        "HSP": 20,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING1001",
+        "nombre": "Practica I",
+        "creditos": 0,
+        "ECA": 0.53,
+        "HSP": 6,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING1003",
+        "nombre": "Desafios de la Ingenieria",
+        "creditos": 10,
+        "ECA": 0.25,
+        "HSP": 8,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING1004",
+        "nombre": "Desafios de la Ingenieria",
+        "creditos": 10,
+        "ECA": 0.9,
+        "HSP": 12,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING1011",
+        "nombre": "Orientaciones Generales para la Practica I",
+        "creditos": 0,
+        "ECA": 0.78,
+        "HSP": 4,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING1015",
+        "nombre": "Pensamiento Visual",
+        "creditos": 10,
+        "ECA": 0.75,
+        "HSP": 18,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING1024",
+        "nombre": "Propiedades y Resistencia de Materiales",
+        "creditos": 10,
+        "ECA": 0.47,
+        "HSP": 20,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING1100",
+        "nombre": "Taller de Habitos y Estrategias de Estudio",
+        "creditos": 5,
+        "ECA": 0.57,
+        "HSP": 12,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING1110",
+        "nombre": "Taller de Habitos y Estrategias de Estudio",
+        "creditos": 0,
+        "ECA": 0.78,
+        "HSP": 12,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING1501",
+        "nombre": "Practica de Licenciatura",
+        "creditos": 0,
+        "ECA": 0.58,
+        "HSP": 9,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING2001",
+        "nombre": "Practica II",
+        "creditos": 0,
+        "ECA": 0.38,
+        "HSP": 16,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING2004",
+        "nombre": "Dilab - Laboratorio Dise\u00f1o en Ingenieria y Sistemas",
+        "creditos": 10,
+        "ECA": 0.37,
+        "HSP": 1,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2005",
+        "nombre": "Taller de Empleabilidad",
+        "creditos": 0,
+        "ECA": 0.37,
+        "HSP": 13,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2010",
+        "nombre": "Gestion del Deporte",
+        "creditos": 10,
+        "ECA": 0.74,
+        "HSP": 10,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING2013",
+        "nombre": "Comunicacion Profesional",
+        "creditos": 10,
+        "ECA": 0.91,
+        "HSP": 14,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING2015",
+        "nombre": "Antro-Dise\u00f1o",
+        "creditos": 10,
+        "ECA": 0.53,
+        "HSP": 18,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING2021",
+        "nombre": "Necesidades y Oportunidades",
+        "creditos": 10,
+        "ECA": 0.73,
+        "HSP": 14,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING2022",
+        "nombre": "Taller de Innovacion (Capstone)",
+        "creditos": 10,
+        "ECA": 0.31,
+        "HSP": 6,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING2025",
+        "nombre": "Tecnologia, Emprendimiento y Dise\u00f1o",
+        "creditos": 10,
+        "ECA": 0.06,
+        "HSP": 12,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2030",
+        "nombre": "Investigacion, Innovacion y Emprendimiento",
+        "creditos": 10,
+        "ECA": 0.53,
+        "HSP": 5,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING2985",
+        "nombre": "Curso de Reposicion Ingenieria",
+        "creditos": 10,
+        "ECA": 0.41,
+        "HSP": 8,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING2986",
+        "nombre": "Curso de Reposicion Ingenieria",
+        "creditos": 20,
+        "ECA": 0.17,
+        "HSP": 5,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING2994",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.26,
+        "HSP": 6,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING3001",
+        "nombre": "Optativo de Ingenieria",
+        "creditos": 10,
+        "ECA": 0.09,
+        "HSP": 11,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING3002",
+        "nombre": "Optativo de Ingenieria",
+        "creditos": 20,
+        "ECA": 0.64,
+        "HSP": 2,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING3003",
+        "nombre": "Optativo de Ingenieria",
+        "creditos": 30,
+        "ECA": 0.76,
+        "HSP": 17,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING3004",
+        "nombre": "Optativo de Ingenieria",
+        "creditos": 40,
+        "ECA": 0.82,
+        "HSP": 13,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING3005",
+        "nombre": "Optativo de Ingenieria",
+        "creditos": 5,
+        "ECA": 0.64,
+        "HSP": 18,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IPP1000",
+        "nombre": "Practica Preprofesional I",
+        "creditos": 0,
+        "ECA": 0.67,
+        "HSP": 18,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IPP2000",
+        "nombre": "Practica Preprofesional II",
+        "creditos": 0,
+        "ECA": 0.58,
+        "HSP": 0,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IRB1001",
+        "nombre": "Introduccion a la Robotica",
+        "creditos": 10,
+        "ECA": 0.15,
+        "HSP": 2,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IRB2001",
+        "nombre": "Fundamentos de Robotica",
+        "creditos": 10,
+        "ECA": 0.78,
+        "HSP": 11,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IRB2002",
+        "nombre": "Dise\u00f1o de Sistemas Roboticos (Capstone)",
+        "creditos": 10,
+        "ECA": 0.18,
+        "HSP": 2,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMA2504",
+        "nombre": "Taller Computacional de Ecuaciones Diferenciales Parciales",
+        "creditos": 0,
+        "ECA": 0.33,
+        "HSP": 14,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMC1202",
+        "nombre": "Planificacion y Control de Proyectos",
+        "creditos": 10,
+        "ECA": 0.05,
+        "HSP": 17,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM0020",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 20,
+        "ECA": 0.28,
+        "HSP": 14,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM1000",
+        "nombre": "Introduccion a la Mineria",
+        "creditos": 10,
+        "ECA": 0.81,
+        "HSP": 6,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM1003",
+        "nombre": "Introduccion a la Mineria",
+        "creditos": 10,
+        "ECA": 0.07,
+        "HSP": 18,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2000",
+        "nombre": "Geologia Minera",
+        "creditos": 10,
+        "ECA": 0.97,
+        "HSP": 14,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2003",
+        "nombre": "Geologia Minera",
+        "creditos": 10,
+        "ECA": 0.67,
+        "HSP": 17,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2012",
+        "nombre": "Mineria a Cielo Abierto",
+        "creditos": 10,
+        "ECA": 0.07,
+        "HSP": 14,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2013",
+        "nombre": "Mineria a Cielo Abierto",
+        "creditos": 10,
+        "ECA": 0.53,
+        "HSP": 1,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2015",
+        "nombre": "Mineria Subterranea",
+        "creditos": 10,
+        "ECA": 0.61,
+        "HSP": 14,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2022",
+        "nombre": "Procesos Mineralurgicos",
+        "creditos": 10,
+        "ECA": 0.51,
+        "HSP": 16,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2023",
+        "nombre": "Procesos Mineralurgicos",
+        "creditos": 10,
+        "ECA": 0.54,
+        "HSP": 10,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMM2025",
+        "nombre": "Procesos Metalurgicos",
+        "creditos": 10,
+        "ECA": 0.81,
+        "HSP": 15,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2032",
+        "nombre": "Geoestadistica",
+        "creditos": 10,
+        "ECA": 0.16,
+        "HSP": 7,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2033",
+        "nombre": "Geoestadistica",
+        "creditos": 10,
+        "ECA": 0.26,
+        "HSP": 4,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2043",
+        "nombre": "Mineria Subterranea",
+        "creditos": 10,
+        "ECA": 0.25,
+        "HSP": 15,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2053",
+        "nombre": "Procesos Metalurgicos",
+        "creditos": 10,
+        "ECA": 0.44,
+        "HSP": 11,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2063",
+        "nombre": "Procesos Mineralurgicos y Metalurgicos",
+        "creditos": 10,
+        "ECA": 0.1,
+        "HSP": 11,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2075",
+        "nombre": "Excelencia Operacional Aplicada a la Mineria",
+        "creditos": 5,
+        "ECA": 0.32,
+        "HSP": 4,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2103",
+        "nombre": "Gestion Ambiental",
+        "creditos": 10,
+        "ECA": 0.65,
+        "HSP": 16,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2200",
+        "nombre": "Competencias para la Vida y el Trabajo en Mineria",
+        "creditos": 10,
+        "ECA": 0.71,
+        "HSP": 4,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2213",
+        "nombre": "Fundamentos de la Economia de Minerales",
+        "creditos": 10,
+        "ECA": 0.41,
+        "HSP": 7,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2370",
+        "nombre": "Ventilacion de Minas",
+        "creditos": 10,
+        "ECA": 0.82,
+        "HSP": 18,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2403",
+        "nombre": "Proyecto Minero (Capstone)",
+        "creditos": 10,
+        "ECA": 0.52,
+        "HSP": 0,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2500",
+        "nombre": "Perforacion y Tronadura",
+        "creditos": 10,
+        "ECA": 0.12,
+        "HSP": 16,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2503",
+        "nombre": "Perforacion y Tronadura",
+        "creditos": 10,
+        "ECA": 0.41,
+        "HSP": 8,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2521",
+        "nombre": "Tecnologias Mineras",
+        "creditos": 10,
+        "ECA": 0.05,
+        "HSP": 4,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2600",
+        "nombre": "Aplicaciones Computacionales en Mineria",
+        "creditos": 10,
+        "ECA": 0.28,
+        "HSP": 2,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2650",
+        "nombre": "Metodos Matematicos Aplicados a la Ingenieria",
+        "creditos": 10,
+        "ECA": 0.99,
+        "HSP": 12,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2660",
+        "nombre": "Metodos Matematicos Aplicados a Ingenieria II",
+        "creditos": 10,
+        "ECA": 0.88,
+        "HSP": 15,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2700",
+        "nombre": "Gestion de Activos Fisicos",
+        "creditos": 10,
+        "ECA": 0.1,
+        "HSP": 19,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2803",
+        "nombre": "Seguridad Minera e Higiene Industrial",
+        "creditos": 10,
+        "ECA": 0.89,
+        "HSP": 14,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2972",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.15,
+        "HSP": 20,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMM2973",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.6,
+        "HSP": 16,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMM2985",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.96,
+        "HSP": 20,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMM2986",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.99,
+        "HSP": 0,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMM2987",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.15,
+        "HSP": 12,
+        "TC": "D1"
+    },
+    {
+        "sigla": "MAP010",
+        "nombre": "Requisito Matematicas Aplicadas",
+        "creditos": 10,
+        "ECA": 0.35,
+        "HSP": 7,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMT0020",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 20,
+        "ECA": 0.62,
+        "HSP": 1,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMT1001",
+        "nombre": "Introduccion a la Ingenieria Matematica",
+        "creditos": 10,
+        "ECA": 0.93,
+        "HSP": 8,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMT2100",
+        "nombre": "Aplicaciones de Analisis Funcional y Ecuaciones Diferenciales Parciales en Ingenieria",
+        "creditos": 10,
+        "ECA": 0.28,
+        "HSP": 10,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMT2111",
+        "nombre": "Algebra Lineal Numerica",
+        "creditos": 10,
+        "ECA": 0.47,
+        "HSP": 20,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMT2112",
+        "nombre": "Algoritmos Paralelos en Computacion Cientifica",
+        "creditos": 10,
+        "ECA": 0.43,
+        "HSP": 15,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMT2113",
+        "nombre": "Analisis de Fourier Aplicado",
+        "creditos": 10,
+        "ECA": 0.59,
+        "HSP": 12,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMT2115",
+        "nombre": "Control de Sistemas Lineales",
+        "creditos": 10,
+        "ECA": 0.04,
+        "HSP": 19,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMT2116",
+        "nombre": "Taller de Matematicas Aplicadas (Capstone)",
+        "creditos": 10,
+        "ECA": 0.77,
+        "HSP": 6,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMT2972",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.23,
+        "HSP": 14,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IMT2981",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.03,
+        "HSP": 6,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMT2985",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.42,
+        "HSP": 4,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMT2986",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.99,
+        "HSP": 13,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMT2987",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.03,
+        "HSP": 10,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IDI2995",
+        "nombre": "Mentalidad y Metodos de Emprendimiento",
+        "creditos": 10,
+        "ECA": 0.1,
+        "HSP": 18,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2045",
+        "nombre": "Introduccion a la Sustentabilidad",
+        "creditos": 10,
+        "ECA": 0.6,
+        "HSP": 15,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2055",
+        "nombre": "Analisis y Aplicacion de Observaciones Geoespaciales",
+        "creditos": 10,
+        "ECA": 0.72,
+        "HSP": 17,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IIC2685",
+        "nombre": "Robotica Movil",
+        "creditos": 10,
+        "ECA": 0.31,
+        "HSP": 7,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IDI1015",
+        "nombre": "Pensamiento Visual",
+        "creditos": 10,
+        "ECA": 0.78,
+        "HSP": 10,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IDI2015",
+        "nombre": "Antro-Dise\u00f1o",
+        "creditos": 10,
+        "ECA": 0.53,
+        "HSP": 17,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IDI2004",
+        "nombre": "Dilab-Laboratorio Dise\u00f1o en Ingenieria y Sistemas",
+        "creditos": 10,
+        "ECA": 0.23,
+        "HSP": 18,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IDI2025",
+        "nombre": "Tecnologia, Emprendimiento y Dise\u00f1o",
+        "creditos": 10,
+        "ECA": 0.89,
+        "HSP": 12,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IBM2029",
+        "nombre": "Dispositivos Medicos",
+        "creditos": 10,
+        "ECA": 0.76,
+        "HSP": 2,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2040",
+        "nombre": "CMD Emprendimiento Social y Empresas B",
+        "creditos": 10,
+        "ECA": 0.92,
+        "HSP": 16,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IEE2473",
+        "nombre": "Laboratorio de Electronica Analogica y Digital",
+        "creditos": 5,
+        "ECA": 0.82,
+        "HSP": 16,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IEE2393",
+        "nombre": "Redes Inteligentes para Energia Sustentable",
+        "creditos": 10,
+        "ECA": 0.82,
+        "HSP": 20,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IEE2463",
+        "nombre": "Sistemas Electronicos Programables",
+        "creditos": 10,
+        "ECA": 0.65,
+        "HSP": 11,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING2062",
+        "nombre": "Convenio Duoc UC-Ingenieria",
+        "creditos": 10,
+        "ECA": 1.0,
+        "HSP": 5,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IMM2583",
+        "nombre": "Taller de Planificacion Minera (Capstone)",
+        "creditos": 10,
+        "ECA": 0.52,
+        "HSP": 16,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ICE2880",
+        "nombre": "Proyecto de Dise\u00f1o Estructural y Geotecnico",
+        "creditos": 10,
+        "ECA": 0.1,
+        "HSP": 3,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0009",
+        "nombre": "Optativo de Biologia",
+        "creditos": 5,
+        "ECA": 0.31,
+        "HSP": 19,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING0010",
+        "nombre": "Optativo de Biologia",
+        "creditos": 5,
+        "ECA": 0.94,
+        "HSP": 2,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ICH2611",
+        "nombre": "Cambio Climatico: Un Enfoque Multidisciplinario",
+        "creditos": 10,
+        "ECA": 0.71,
+        "HSP": 18,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICS2870",
+        "nombre": "Entornos Digitales y Marketing Electronico",
+        "creditos": 10,
+        "ECA": 0.75,
+        "HSP": 17,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIQ2633",
+        "nombre": "Quimica y Analisis de Alimentos",
+        "creditos": 10,
+        "ECA": 0.82,
+        "HSP": 15,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IEE2433",
+        "nombre": "Dise\u00f1o de Circuitos Integrados Analogicos",
+        "creditos": 10,
+        "ECA": 0.06,
+        "HSP": 7,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ICS2972",
+        "nombre": "Trabajo de Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.97,
+        "HSP": 1,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICS2133",
+        "nombre": "Fundamentos de Simulacion de Sistemas Estocasticos",
+        "creditos": 10,
+        "ECA": 0.89,
+        "HSP": 19,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING2983",
+        "nombre": "Dise\u00f1o Colaborativo en AIC (Arquitectura, Ingenieria y Construccion) (Capstone)",
+        "creditos": 10,
+        "ECA": 0.51,
+        "HSP": 3,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICS2125",
+        "nombre": "Estrategias para la Innovacion en el Dise\u00f1o de Productos Eficientes y Sustentables",
+        "creditos": 10,
+        "ECA": 0.02,
+        "HSP": 14,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IEE2753",
+        "nombre": "Dise\u00f1o de Circuitos Integrados Digitales",
+        "creditos": 10,
+        "ECA": 0.74,
+        "HSP": 5,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICS113H",
+        "nombre": "Optimizacion-Honors",
+        "creditos": 10,
+        "ECA": 0.51,
+        "HSP": 18,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IBM2992",
+        "nombre": "Biologia Sintetica y Prototipado de Funciones Biologicas Artificiales",
+        "creditos": 10,
+        "ECA": 0.39,
+        "HSP": 12,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ING2050",
+        "nombre": "Desarrollo y Aplicaciones de Sistemas Aereos No Tripulados",
+        "creditos": 10,
+        "ECA": 0.87,
+        "HSP": 6,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICS2009",
+        "nombre": "Dinamica de Sistemas de Negocios",
+        "creditos": 10,
+        "ECA": 0.45,
+        "HSP": 9,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IIQ2930",
+        "nombre": "Introduccion a la Ingenieria Gastronomica",
+        "creditos": 10,
+        "ECA": 0.56,
+        "HSP": 4,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICM2240",
+        "nombre": "Fundamentos de Dinamica de Fluidos Computacional",
+        "creditos": 10,
+        "ECA": 0.09,
+        "HSP": 2,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMT2565",
+        "nombre": "Optimizacion Combinatorial",
+        "creditos": 10,
+        "ECA": 0.4,
+        "HSP": 17,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IIQ2723",
+        "nombre": "Ingenieria de Alimentos",
+        "creditos": 10,
+        "ECA": 0.3,
+        "HSP": 6,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IBM2020",
+        "nombre": "Introduccion a la Biomecanica",
+        "creditos": 10,
+        "ECA": 0.05,
+        "HSP": 1,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ICM2316",
+        "nombre": "Introduccion al Dise\u00f1o Grafico",
+        "creditos": 5,
+        "ECA": 0.13,
+        "HSP": 15,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IEE1533",
+        "nombre": "Fundamentos de Teoria Electromagnetica",
+        "creditos": 10,
+        "ECA": 0.37,
+        "HSP": 11,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IIC2026",
+        "nombre": "Visualizacion de Informacion",
+        "creditos": 10,
+        "ECA": 0.22,
+        "HSP": 9,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2895",
+        "nombre": "Mineria Block Caving y sus Variantes",
+        "creditos": 5,
+        "ECA": 0.64,
+        "HSP": 8,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ING0907",
+        "nombre": "Investigacion en Pregrado UC Propone Ingenieria",
+        "creditos": 10,
+        "ECA": 0.94,
+        "HSP": 3,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING1111",
+        "nombre": "Introduccion al Aprendizaje Universitario",
+        "creditos": 0,
+        "ECA": 0.74,
+        "HSP": 13,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICE1514",
+        "nombre": "Dinamica",
+        "creditos": 10,
+        "ECA": 0.38,
+        "HSP": 19,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIQ103H",
+        "nombre": "Termodinamica Honors",
+        "creditos": 10,
+        "ECA": 0.76,
+        "HSP": 20,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IIC1001",
+        "nombre": "Algoritmos y Sistemas Computacionales",
+        "creditos": 5,
+        "ECA": 0.49,
+        "HSP": 8,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IIC2001",
+        "nombre": "Practica de Ciencia de la Computacion I",
+        "creditos": 5,
+        "ECA": 0.44,
+        "HSP": 0,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIC2002",
+        "nombre": "Practica de Ciencia de la Computacion",
+        "creditos": 10,
+        "ECA": 0.4,
+        "HSP": 0,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IIC2164",
+        "nombre": "Proyecto de Innovacion y Computacion",
+        "creditos": 10,
+        "ECA": 0.65,
+        "HSP": 5,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IDI2031",
+        "nombre": "Prototipado y Validacion de Innovaciones Tecnologicas",
+        "creditos": 10,
+        "ECA": 0.84,
+        "HSP": 5,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICS2031",
+        "nombre": "Estrategia y Comercializacion de Innovaciones Tecnologicas",
+        "creditos": 10,
+        "ECA": 0.79,
+        "HSP": 19,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICS2032",
+        "nombre": "Financiamiento y Creacion de Start-Ups",
+        "creditos": 10,
+        "ECA": 0.13,
+        "HSP": 10,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ING2031",
+        "nombre": "Vigilancia Tecnologica e Inteligencia Competitiva",
+        "creditos": 5,
+        "ECA": 0.43,
+        "HSP": 6,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IIC2182",
+        "nombre": "Interfaces y Experiencia de Usuarios",
+        "creditos": 10,
+        "ECA": 0.81,
+        "HSP": 2,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IIC2214",
+        "nombre": "Teoria de la Computacion",
+        "creditos": 10,
+        "ECA": 0.29,
+        "HSP": 18,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IIC2224",
+        "nombre": "Automatas y Compiladores",
+        "creditos": 10,
+        "ECA": 0.23,
+        "HSP": 5,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIC2293",
+        "nombre": "Algoritmos Avanzados",
+        "creditos": 10,
+        "ECA": 0.79,
+        "HSP": 15,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IIC2531",
+        "nombre": "Seguridad Computacional",
+        "creditos": 10,
+        "ECA": 0.28,
+        "HSP": 0,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IIC2560",
+        "nombre": "Fundamentos de Lenguajes de Programacion",
+        "creditos": 10,
+        "ECA": 0.52,
+        "HSP": 9,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IBM2222",
+        "nombre": "Dise\u00f1o en Ingenieria Biologica (Capstone)",
+        "creditos": 10,
+        "ECA": 0.32,
+        "HSP": 12,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IFI1001",
+        "nombre": "Introduccion a la Ingenieria Fisica",
+        "creditos": 10,
+        "ECA": 0.05,
+        "HSP": 3,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE2026",
+        "nombre": "Geologia de Campo I (Capstone)",
+        "creditos": 5,
+        "ECA": 0.47,
+        "HSP": 7,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ICE2027",
+        "nombre": "Geologia de Campo II (Capstone)",
+        "creditos": 5,
+        "ECA": 0.32,
+        "HSP": 18,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING102G",
+        "nombre": "Maravillas Tecnologicas de la Vida Cotidiana",
+        "creditos": 10,
+        "ECA": 0.96,
+        "HSP": 12,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ING101G",
+        "nombre": "UC-Lab: Soluciones Creativas Para Desafios de la Humanidad",
+        "creditos": 10,
+        "ECA": 0.93,
+        "HSP": 19,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IIC100G",
+        "nombre": "En Busqueda del Bienestar: \u00f1Que nos Dice la Ciencia\u00f1",
+        "creditos": 10,
+        "ECA": 0.06,
+        "HSP": 17,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICS2563",
+        "nombre": "Econometria Aplicada",
+        "creditos": 10,
+        "ECA": 0.33,
+        "HSP": 6,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IDI2996",
+        "nombre": "Fundamentos Sociales y Tecnicos de la Innovacion",
+        "creditos": 10,
+        "ECA": 0.14,
+        "HSP": 5,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICM1002",
+        "nombre": "Dise\u00f1o Grafico en Ingenieria Mecanica",
+        "creditos": 10,
+        "ECA": 0.56,
+        "HSP": 15,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IIC100B",
+        "nombre": "Pensamiento Computacional y Habilidades Digitales",
+        "creditos": 5,
+        "ECA": 0.85,
+        "HSP": 6,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICC1001",
+        "nombre": "Introduccion a la Ingenieria Civil",
+        "creditos": 10,
+        "ECA": 0.34,
+        "HSP": 13,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICE2006",
+        "nombre": "Estatica",
+        "creditos": 10,
+        "ECA": 0.57,
+        "HSP": 7,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICH2604",
+        "nombre": "Principios de Tratamiento de Agua",
+        "creditos": 10,
+        "ECA": 0.97,
+        "HSP": 9,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2073",
+        "nombre": "Mineria Sustentable",
+        "creditos": 10,
+        "ECA": 0.95,
+        "HSP": 17,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMM2083",
+        "nombre": "Mecanica de Rocas para Mineria",
+        "creditos": 10,
+        "ECA": 0.78,
+        "HSP": 9,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IRB0600",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.23,
+        "HSP": 8,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IRB0601",
+        "nombre": "Trabajo Personal Dirigido",
+        "creditos": 5,
+        "ECA": 0.52,
+        "HSP": 8,
+        "TC": "D4"
+    },
+    {
+        "sigla": "IRB0700",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.31,
+        "HSP": 13,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IRB0701",
+        "nombre": "Investigacion o Proyecto",
+        "creditos": 10,
+        "ECA": 0.55,
+        "HSP": 18,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IBM2011",
+        "nombre": "Laboratorio Ingenieria Biomedica",
+        "creditos": 10,
+        "ECA": 0.06,
+        "HSP": 10,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICH1001",
+        "nombre": "Introduccion a la Ingenieria Civil",
+        "creditos": 10,
+        "ECA": 0.8,
+        "HSP": 9,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IMT2117",
+        "nombre": "Probabilidades y Algoritmos",
+        "creditos": 10,
+        "ECA": 0.68,
+        "HSP": 20,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IRB1010",
+        "nombre": "Introduccion Exploratoria a la Robotica",
+        "creditos": 10,
+        "ECA": 0.02,
+        "HSP": 2,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING1500",
+        "nombre": "Examen de Titulo",
+        "creditos": 0,
+        "ECA": 0.27,
+        "HSP": 11,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIC2553",
+        "nombre": "Taller de Programacion Competitiva II",
+        "creditos": 5,
+        "ECA": 0.67,
+        "HSP": 12,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IEE2544",
+        "nombre": "Redes de Comunicaciones Digitales",
+        "creditos": 10,
+        "ECA": 0.2,
+        "HSP": 0,
+        "TC": "D1"
+    },
+    {
+        "sigla": "ICM100G",
+        "nombre": "Manufactura para la Fabricacion",
+        "creditos": 10,
+        "ECA": 0.06,
+        "HSP": 14,
+        "TC": "D2"
+    },
+    {
+        "sigla": "ING2020",
+        "nombre": "Tecnologia y Sociedad",
+        "creditos": 10,
+        "ECA": 0.14,
+        "HSP": 9,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIQ2643",
+        "nombre": "Procesamiento de Alimentos",
+        "creditos": 10,
+        "ECA": 0.47,
+        "HSP": 14,
+        "TC": "D3"
+    },
+    {
+        "sigla": "IIC2440",
+        "nombre": "Procesamiento de Datos Masivos",
+        "creditos": 10,
+        "ECA": 0.44,
+        "HSP": 15,
+        "TC": "D1"
+    },
+    {
+        "sigla": "IFI2122",
+        "nombre": "Taller de Ingenieria Fisica (Capstone)",
+        "creditos": 10,
+        "ECA": 0.48,
+        "HSP": 1,
+        "TC": "D5"
+    },
+    {
+        "sigla": "IMT2310",
+        "nombre": "Algebra Abstracta y Aplicaciones",
+        "creditos": 10,
+        "ECA": 0.56,
+        "HSP": 7,
+        "TC": "D5"
+    },
+    {
+        "sigla": "ICH2613",
+        "nombre": "CMD Cambio Climatico: un Enfoque Multidisciplinario",
+        "creditos": 10,
+        "ECA": 0.95,
+        "HSP": 2,
+        "TC": "D3"
+    },
+    {
+        "sigla": "ESM01IN",
+        "nombre": "Planificacion y Control de Proyectos",
+        "creditos": 0,
+        "ECA": 0.54,
+        "HSP": 11,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ESM02IN",
+        "nombre": "Introduccion a la Programacion",
+        "creditos": 7,
+        "ECA": 0.48,
+        "HSP": 14,
+        "TC": "D4"
+    },
+    {
+        "sigla": "ICC2105",
+        "nombre": "Materiales de Ingenieria Civil",
+        "creditos": 10,
+        "ECA": 0.63,
+        "HSP": 3,
+        "TC": "D2"
+    },
+    {
+        "sigla": "IMT2118",
+        "nombre": "Ciencia de Datos Geoespaciales",
+        "creditos": 10,
+        "ECA": 0.41,
+        "HSP": 8,
+        "TC": "D4"
+    }
+]
